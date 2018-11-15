@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Default.aspx](./CS/ManualBinding/Default.aspx) (VB: [Default.aspx.vb](./VB/ManualBinding/Default.aspx.vb))
+* [Default.aspx.cs](./CS/ManualBinding/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/ManualBinding/Default.aspx.vb))
+<!-- default file list end -->
 # How to implement manual binding for the ASPxComboBox
 
 
