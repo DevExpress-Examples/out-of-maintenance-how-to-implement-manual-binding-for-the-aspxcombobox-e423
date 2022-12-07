@@ -35,7 +35,7 @@ namespace ManualBinding {
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::DevExpress.Web.ASPxEditors.ASPxComboBox ASPxComboBox1;
+        protected global::DevExpress.Web.ASPxComboBox ASPxComboBox1;
         
         /// <summary>
         /// ASPxButton1 control.
@@ -44,7 +44,7 @@ namespace ManualBinding {
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::DevExpress.Web.ASPxEditors.ASPxButton ASPxButton1;
+        protected global::DevExpress.Web.ASPxButton ASPxButton1;
         
         /// <summary>
         /// dsRegions control.
